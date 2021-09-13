@@ -1,1 +1,2 @@
-# html-purifier-twig-extension
+# Html PurifierTwig Extensions
+
